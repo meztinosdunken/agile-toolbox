@@ -8,6 +8,7 @@ Thank you for considering contributing to Agile Toolbox! We appreciate your help
    ```bash
    git clone https://github.com/yourusername/agile-toolbox.git
    ```
+   **Note**: Make sure to replace `yourusername` with your GitHub username.
 3. **Create a feature branch**: Create a new branch for your feature or bug fix:
    ```bash
    git checkout -b my-feature-branch
