@@ -19,7 +19,7 @@ h1 {
 footer {
     text-align: center;
     padding: 10px;
-    background: #f1f1f1;
+    background: #e1e1e1; /* Changed for better contrast */
     position: fixed;
     width: 100%;
     bottom: 0;
