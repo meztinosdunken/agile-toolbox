@@ -19,7 +19,7 @@ Examples of unacceptable behavior by participants include:
 - Other conduct which could reasonably be considered inappropriate in a professional setting
 
 ## Enforcement
-Instances of unacceptable behavior may be reported by contacting the project team at [email](mailto:agiletoolbox@example.com). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality about the reporter of an incident.
+Instances of unacceptable behavior may be reported by contacting the project team at [email](mailto:contact@agiletoolbox.org). All complaints will be reviewed and investigated and will result in a response that is deemed necessary and appropriate to the circumstances. The project team is obligated to maintain confidentiality about the reporter of an incident.
 
 ## Attribution
 This Code of Conduct is adapted from the [Contributor Covenant](https://www.contributor-covenant.org/), version 1.4.
