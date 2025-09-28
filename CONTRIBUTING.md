@@ -13,7 +13,7 @@ Thank you for considering contributing to Agile Toolbox! We appreciate your help
    git checkout -b my-feature-branch
    ```
 4. **Make changes**: Make your changes and ensure your code follows the project’s coding conventions.
-5. **Commit your changes**: Commit your changes with a clear message:
+5. **Commit your changes**: Commit your changes with a clear message following the format:
    ```bash
    git commit -m "Add new feature"
    ```
