@@ -1,7 +1,7 @@
 # Installation Instructions
 
 ## Prerequisites
-- Ensure you have [Node.js](https://nodejs.org/) installed.
+- Ensure you have [Node.js](https://nodejs.org/en/download/) installed.
 - You may want to install a package manager such as npm, yarn, or pnpm.
 
 ## Setup
