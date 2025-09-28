@@ -31,4 +31,4 @@
    ```
 
 ## Troubleshooting
-If you run into issues, please check the [GitHub Issues](https://github.com/yourusername/agile-toolbox/issues) for help or submit a new issue.
+If you run into issues, please check the [GitHub Issues](https://github.com/yourusername/agile-toolbox/issues) for help or refer to the documentation for more guidance.
