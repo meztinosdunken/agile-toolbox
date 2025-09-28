@@ -2,7 +2,7 @@
 
 ## Prerequisites
 - Ensure you have [Node.js](https://nodejs.org/) installed.
-- You may want to install a package manager such as npm or yarn.
+- You may want to install a package manager such as npm, yarn, or pnpm.
 
 ## Setup
 1. Clone the repository:
