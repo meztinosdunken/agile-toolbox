@@ -13,10 +13,14 @@
 2. Install dependencies:
    ```bash
    npm install
+   # Or if you prefer yarn:
+   yarn install
    ```
 3. Start the application:
    ```bash
    npm start
+   # Or if you prefer yarn:
+   yarn start
    ```
 4. Open your browser and navigate to `http://localhost:3000`.
 
@@ -24,10 +28,14 @@
 - To run tests:
    ```bash
    npm test
+   # Or if you prefer yarn:
+   yarn test
    ```
 - To build the application:
    ```bash
    npm run build
+   # Or if you prefer yarn:
+   yarn build
    ```
 
 ## Troubleshooting
